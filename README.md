@@ -4,7 +4,7 @@
 
 This repository contains a numerical simulation of the classical **Cucker–Smale flocking model** in two dimensions.
 
-The simulation is implemented in **Python** using **NumPy** and **Matplotlib**. The system is solved using the classical **fourth-order Runge–Kutta (RK4)** method and visualized through an animated velocity field.
+The simulation is implemented in **Python** using **NumPy** and **Matplotlib**. The system is solved using the classical **fourth-order Runge-Kutta (RK4)** method and visualized through an animated velocity field.
 
 This project was developed as part of a Master's research work in applied mathematics.
 
