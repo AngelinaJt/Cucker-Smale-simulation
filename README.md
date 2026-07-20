@@ -1,4 +1,4 @@
-# Cucker–Smale Flocking Simulation
+# Cucker-Smale Flocking Simulation
 
 ## Overview
 
