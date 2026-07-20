@@ -53,6 +53,19 @@ where the communication kernel is defined by
 - RK4 numerical integration.
 
 ---
+# Cucker–Smale Flocking Simulation
+
+<p align="center">
+  <img src="figures/cucker_smale.gif" alt="Cucker–Smale simulation" width="700">
+</p>
+
+## Overview
+
+This repository contains a numerical simulation of the classical **Cucker–Smale flocking model** in two dimensions.
+
+The simulation is implemented in **Python** using **NumPy** and **Matplotlib**. The system is integrated using the classical **fourth-order Runge–Kutta (RK4)** method and visualized through an animated velocity field.
+
+...
 
 ## Requirements
 
