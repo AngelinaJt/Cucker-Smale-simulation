@@ -14,24 +14,23 @@ This project was developed as part of a Master's research work in applied mathem
 
 The Cucker–Smale system is defined by
 
-\[
+```math
 \dot{x}_i = v_i,
-\]
+```
 
-\[
+```math
 \dot{v}_i =
 \frac{\alpha}{N}
 \sum_{j=1}^{N}
 \phi(\|x_j-x_i\|)
-(v_j-v_i),
-\]
+\left(v_j-v_i\right),
+```
 
-where
+where the communication kernel is defined by
 
-\[
+```math
 \phi(r)=\frac{1}{(1+r^2)^{\beta/2}}.
-\]
-
+```
 ---
 
 ## Simulation parameters
